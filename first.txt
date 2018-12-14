@@ -2,3 +2,5 @@ gitの練習開始
 基本的なワークフローを学びます。
 
 testtest
+
+git.remove
