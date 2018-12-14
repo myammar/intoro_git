@@ -4,3 +4,4 @@ git‚Ì—ûKŠJn
 testtest
 
 git.remove
+git status
